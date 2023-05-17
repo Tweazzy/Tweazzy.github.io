@@ -1,0 +1,9 @@
+.function__title {
+    margin: 0;
+    padding: 0;
+    grid-area: title;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #156963;
+}

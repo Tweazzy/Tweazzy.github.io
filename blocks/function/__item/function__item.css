@@ -1,0 +1,12 @@
+.function__item {
+    outline: 1px solid #E0E0E0;
+    max-width: 268px;
+    display: grid;
+    grid-template-columns: 48px 1fr;
+    grid-template-rows: 48px 1fr;
+    grid-template-areas: 
+        "icon title"
+        "content content";
+    padding: 22px 16px 22px;
+    gap: 16px;
+}

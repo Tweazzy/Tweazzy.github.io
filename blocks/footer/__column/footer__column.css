@@ -1,0 +1,10 @@
+.footer__column {
+    margin-right: 80px;
+    display: flex;
+    flex-direction: column;
+    min-height: 137px;
+}
+
+.footer__column:last-child {
+    margin-right: 0;
+}

@@ -1,0 +1,7 @@
+.main__subtitle {
+    font-weight: 400;
+    font-size: calc(0.0140625 * 100vw);
+    line-height: calc(0.025 * 100vw);
+    margin-left: calc(0.06015625 * 100vw);
+    /* margin-bottom: calc(0.0859375 * 100vw); */
+}

@@ -1,0 +1,10 @@
+.nav__search {
+    width: 20px;
+    height: 20px;
+    margin-right: 40px;
+    cursor: pointer;
+}
+
+.nav__search:hover {
+    opacity: .4;
+}

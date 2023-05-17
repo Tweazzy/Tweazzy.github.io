@@ -1,0 +1,6 @@
+.function {
+    margin: 100px calc(0.040625 * 100vw) 80px;
+    display: grid;
+    gap: 32px;
+    grid-template-columns: repeat(auto-fill, max(268px));
+}

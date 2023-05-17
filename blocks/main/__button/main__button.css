@@ -1,0 +1,18 @@
+.main__button {
+    width: calc(100vw * 0.25);
+    height: calc(100vw * 0.125);
+}
+
+/* .main__button:hover {
+    opacity: .4;
+    outline-offset: -1px;
+    outline: 1px solid #156963;
+}
+
+.main__button:focus {
+    opacity: 1;
+}
+
+.main__button:active {
+    opacity: .4;
+} */

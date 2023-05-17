@@ -1,0 +1,22 @@
+.nav__sign {
+    width: 111px;
+    height: 36px;
+    background: #FFF;
+    border: 0;
+    color: #156963;
+    cursor: pointer;
+    transition: opacity .4s;
+}
+/* .nav__sign:hover {
+    opacity: .4;
+    outline-offset: -1px;
+    outline: 1px solid #156963;
+}
+
+.nav__sign:focus {
+    opacity: 1;
+}
+
+.nav__sign:active {
+    opacity: .4;
+} */

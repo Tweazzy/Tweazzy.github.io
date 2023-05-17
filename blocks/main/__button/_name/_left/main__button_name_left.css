@@ -1,0 +1,6 @@
+.main__button_name_left {
+    font-weight: 500;
+    font-size: calc(100vw * 0.025);
+    line-height: calc(100vw * 0.03046875);
+    color: #156963;
+}

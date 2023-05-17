@@ -1,0 +1,13 @@
+.info {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas: 
+        "text img-right"
+        "img-bottom img-right";
+    gap: calc(100vw * 0.065625) calc(100vw * 0.0578125);
+    margin-left: 56px;
+    margin-right: 56px;
+    justify-items: start;
+    align-items: end;
+}

@@ -1,0 +1,10 @@
+.plants__title {
+    font-weight: 500;
+    font-size: calc(0.015625 * 100vw);
+    line-height: calc(0.01875 * 100vw);
+    margin: 0;
+    padding: 0;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #E0E0E0;
+    margin-bottom: 24px;
+}

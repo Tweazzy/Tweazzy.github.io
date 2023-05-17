@@ -1,0 +1,6 @@
+.info__subtitle {
+    font-weight: 400;
+    font-size: calc(100vw * 0.0125);
+    line-height: calc(100vw * 0.021875);
+    margin-top: 16px;
+}

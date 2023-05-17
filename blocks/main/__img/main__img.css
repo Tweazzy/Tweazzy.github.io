@@ -1,0 +1,7 @@
+.main__img {
+    margin-top: -116px;
+    z-index: 1;
+    width: calc(0.475 * 100vw);
+    height: 100%;
+    object-fit: cover;
+}

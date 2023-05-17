@@ -1,0 +1,9 @@
+.main__title {
+    /* margin-top: calc(0.0859375 * 100vw); */
+    margin-bottom: calc(0.01875 * 100vw);
+    margin-left: calc(0.06015625 * 100vw);
+    color: #156963;
+    font-weight: 500;
+    font-size: calc(0.053125 * 100vw);
+    line-height: calc(0.06484375 * 100vw);
+}

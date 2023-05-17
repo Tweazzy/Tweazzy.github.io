@@ -1,0 +1,9 @@
+.shop {
+    margin: 80px 56px 80px;
+    background-color: #F3F4F6;
+    background-image: url("../../image/Shop.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    max-width: 1168px;
+    min-height: 360px;
+}

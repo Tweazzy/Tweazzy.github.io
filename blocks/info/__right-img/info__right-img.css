@@ -1,0 +1,7 @@
+.info__right-img {
+    grid-area: img-right;
+    overflow: hidden;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}

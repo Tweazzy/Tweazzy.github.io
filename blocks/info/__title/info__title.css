@@ -1,0 +1,5 @@
+.info__title {
+    font-weight: 700;
+    font-size: calc(100vw * 0.03125);
+    line-height: calc(100vw * 0.04375);
+}

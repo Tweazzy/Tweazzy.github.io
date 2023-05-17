@@ -1,0 +1,9 @@
+.shop__button {
+    width: 152px;
+    height: 40px;
+    background: #156963;
+    cursor: pointer;
+    color: #FFF;
+    border: 0;
+    margin-left: 97px;
+}

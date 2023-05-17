@@ -1,0 +1,11 @@
+.main__button_right {
+    background: #156963;
+    border: 0;
+    cursor: pointer;
+    transition: opacity .4s;
+    font-weight: 500;
+    font-size: calc(100vw * 0.01875);
+    line-height: calc(100vw * 0.02265625);
+    color: #F2F2F2;
+    text-align: left;
+}

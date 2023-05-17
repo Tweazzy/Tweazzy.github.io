@@ -1,0 +1,6 @@
+.plants__galerrey {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill, 217px);
+    justify-items: stretch;
+}

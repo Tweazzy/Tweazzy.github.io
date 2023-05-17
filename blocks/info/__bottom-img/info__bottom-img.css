@@ -1,0 +1,6 @@
+.info__bottom-img {
+    grid-area: img-bottom;
+    width: calc(100vw * 0.44375);
+    overflow: hidden;
+    object-fit: cover;
+}

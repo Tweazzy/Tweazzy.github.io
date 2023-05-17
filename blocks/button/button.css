@@ -1,0 +1,13 @@
+.button:hover {
+    opacity: .4;
+    outline-offset: -1px;
+    outline: 1px solid #156963;
+}
+
+.button:focus {
+    opacity: 1;
+}
+
+.button:active {
+    opacity: .4;
+}

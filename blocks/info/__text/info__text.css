@@ -1,0 +1,5 @@
+.info__text {
+    grid-area: text;
+    width: calc(100vw * 0.44375);
+    height: calc(100vw * 0.209375);
+}

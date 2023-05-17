@@ -1,0 +1,8 @@
+.function__icon {
+    margin: 0;
+    padding: 0;
+    grid-area: icon;
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+}
